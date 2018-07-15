@@ -14,11 +14,14 @@ header {
     background-color: #A65656;
     color: #fff;
     width: 20%;
-    float: left;
     height: 44px;
-    padding-top: 26px;
+    padding: 10px;
+    text-align: center;
 }
 
+.navbar{
+    padding: 0 2rem;
+}
 .navigation{
     width: 80%;
     text-align: right;
