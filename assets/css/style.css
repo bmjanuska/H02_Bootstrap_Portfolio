@@ -21,7 +21,9 @@ header {
 
 .navbar{
     padding: 0 2rem;
+    min-height: 40px;
 }
+
 .navigation{
     width: 80%;
     text-align: right;
